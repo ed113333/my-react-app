@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>
+          000.0000.0000.00上不去!!!!!!!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
