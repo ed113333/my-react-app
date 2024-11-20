@@ -1,5 +1,8 @@
 import logo from './logo.svg';
-import './App.css';
+import App2 from './App21120.js';
+import  './App.css';
+
+
 
 function App() {
   return (
@@ -9,10 +12,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>
-          測試123
-          sssssssss
-        </p>git 
+        <App2 test="我是元件一號" name="嘿嘿嘿我寫完了"></App2>
+        <App2  name="٩(๑•̀ω•́๑)۶"></App2>
         <a
           className="App-link"
           href="https://reactjs.org"
